@@ -7,6 +7,7 @@ export const GlobalStyle = createGlobalStyle`
   padding: 0;
   box-sizing: border-box;
   font-family: "Work Sans", sans-serif;
+  font-family: "Urbanist", sans-serif;
 }
 
 
@@ -44,6 +45,7 @@ h2,
 h3,
 h4 {
    font-family: "Work Sans", sans-serif;
+   font-family: "Urbanist", sans-serif;
 
 }
 
@@ -96,7 +98,6 @@ ${"" /* resuable code section  */}
 
 .grid-two-column {
   grid-template-columns: repeat(2, 1fr);
-
 }
 
 .grid-three-column {
